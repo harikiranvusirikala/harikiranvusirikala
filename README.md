@@ -7,8 +7,8 @@
 -------
 
 - 🔭 I’m currently working at [Infosys](https://infosys.com) as Specialist Programmer Level 2.
-- 💬 Ask me about DSA, Core JAVA, C, Angular, Spring boot, Git, SQL, Linux
-- 📫 How to reach me: vusirikalaharikiran@gmail.com or [@hari-kiran-vusirikala](https://linkedin.com/in/hari-kiran-vusirikala) on LinkedIn
+- 💬 Ask me about DSA, Core JAVA, C, Angular, Spring boot, Git, SQL, Linux, MongoDB, React, GraphQL, AWS(4x certified).
+- 📫 How to reach me: vusirikalaharikiran@gmail.com or [@hari-kiran-vusirikala](https://linkedin.com/in/hari-kiran-vusirikala) on LinkedIn.
 
 -------
 
