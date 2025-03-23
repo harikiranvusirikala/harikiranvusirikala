@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/harikiranv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harikiranv1" height="30" width="40" /></a>
+  <a href="https://x.com/harikiranv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harikiranv1" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/hari-kiran-vusirikala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikiranvusirikala" height="30" width="40" /></a>
   <a href="mailto:vusirikalaharikiran@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Hari Kiran Vusirikala's Mail" height="30" width="30"/></a>
 </p>
