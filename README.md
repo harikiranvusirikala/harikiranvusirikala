@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikiranvusirikala&label=Profile%20views&color=0e75b6&style=flat" alt="harikiranvusirikala" /> </p>
-<p align="left"> <a href="https://twitter.com/harikiranv1" target="blank"><img src="https://img.shields.io/twitter/follow/harikiranv1?logo=twitter&style=for-the-badge" alt="harikiranv1" /></a> </p>
+<p align="left"> <a href="https://x.com/harikiranv1" target="blank"><img src="https://img.shields.io/twitter/follow/harikiranv1?logo=twitter&style=for-the-badge" alt="harikiranv1" /></a> </p>
 
 -------
 
-- 🔭 I’m currently working at [Infosys](https://infosys.com) as Specialist Programmer Level 2.
+- 🔭 I’m currently working at [Infosys](https://infosys.com) as Specialist Programmer Level 3.
 - 💬 Ask me about DSA, Core JAVA, C, Angular, Spring boot, Git, SQL, Linux, MongoDB, React, GraphQL, AWS(4x certified).
 - 📫 How to reach me: vusirikalaharikiran@gmail.com or [@hari-kiran-vusirikala](https://linkedin.com/in/hari-kiran-vusirikala) on LinkedIn.
 
