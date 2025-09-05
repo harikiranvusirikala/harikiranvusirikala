@@ -31,6 +31,15 @@
 
 <!--
 <p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=harikiranvusirikala&show_icons=true" alt="harikiranvusirikala" />
+</p>
+-->
+
+
+
+<!-- Reference: https://github.com/Sarfaraz-Hussain/Sarfaraz-Hussain -->
+<!--
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harikiranvusirikala&show_icons=true&locale=en" alt="harikiranvusirikala" />
 </p>
 -->
